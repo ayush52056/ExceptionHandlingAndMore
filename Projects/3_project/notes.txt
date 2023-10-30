@@ -1,0 +1,7 @@
+Problem Statement:
+Create a python program that processes a directory containing mutiple text files.
+
+- The program should read the text data from these files, preprocess it by tokenizing, lowercasing, and removing punctuation, calculate word frequencies, and filter out low-frequency words.
+- The goal is to generate a list of the top 10 words by frequency.
+- Use generator pipelines to process and analyze text data efficiently.
+- Read text data from directory, preprocess it, calculate word frequencies, and filters and sorts the words.

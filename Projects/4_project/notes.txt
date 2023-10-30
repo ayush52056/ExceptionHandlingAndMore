@@ -1,0 +1,12 @@
+Problem Statement:
+Create a command-line task list application that allows users to add, view, and manage tasks.
+
+Add a Task: User should be able to add task to the list. Each task should have a unique ID, a title, a description, and a due date.
+
+View Tasks: User should be able to view all tasks in the list, including their details.
+
+Mark Task as Done: Users should save the task list to a file so that tasks persist between program runs
+
+Save to File: The program should save the task list to a file so that tasks persit between program runs.
+
+Load from file: When the program starts, it should load the task list from the file if the fiel exists.
