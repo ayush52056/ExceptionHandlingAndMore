@@ -1,0 +1,11 @@
+Problem Statement:
+You need to create decorator functions to log function calls, their arguments, and return values, as well as to catch and handle exceptions raised by the decorated functions. Your program should apply these decorators to various example functions and display the results.
+
+1. Decorator for Logging (log_function_call):
+2. Displaying Results:
+	• The final results of the decorated functions are displayed using print statements.
+3. Handling Exceptions:
+	• Some functions intentionally raise exceptions. For example, the divide function raises a ValueError if attempting to divide by zero.
+	• The handle_exceptions decorator catches these exceptions and logs the error messages while allowing the program to continue running.
+
+Overall, we need to log function behavior and handle exceptions in a set of example functions.
